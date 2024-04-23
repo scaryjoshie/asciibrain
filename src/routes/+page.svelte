@@ -3,10 +3,30 @@
 	<meta name="description" content="ascii brain - a fun interactive brain parts diagram for ap psych" />
 </svelte:head>
 
-<div class="flex flex-col gap-16 items-center my-16 mx-8">
+<div class="flex flex-col items-center gap-16 my-16 mx-8">
 
 <h1 class="text-4xl text-center">ascii brain</h1>
 
+<div class="flex flex-col items-center">
+    <h2 class="text-center">placeholder</h2>
+
+    <div class="relative">
+        <img src="/images/brain.webp" alt="brain" />
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-44 left-12 size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-16 left-36 size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-44 left-48 size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-44 left-[15.7rem] size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-44 left-[18.5rem] size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-24 left-[23.2rem] size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-56 left-[28rem] size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-96 left-[19rem] size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-[14.5rem] left-[19rem] size-8 rounded-full"></div>
+        <div class="bg-zinc-950 bg-opacity-40 hover:bg-opacity-50 absolute top-[18.5rem] left-48 size-8 rounded-full"></div>
+    </div>
+</div>
+
+<div class="flex flex-col items-center gap-10">
+<h2 class="text-center">ascii</h2>
 <p class="text-xs whitespace-pre leading-none">
 &nbsp;                                    =++++==++=-                                       
                           ++====++====---==++=========+=                               
@@ -52,5 +72,6 @@
                                                      ::.....                           
                                                       .....                            &nbsp;
 </p>
+</div>
 
 </div>
