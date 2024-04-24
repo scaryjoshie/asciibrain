@@ -9,6 +9,7 @@
 
 <Part 
     name="cerebellum"
-    definition="processes sensory input, movement, balance, and implicit memory"
-    example=""
+    tagline="Balance Processor"
+    definition="The Cerebellum processes sensory input, movement, balance, and implicit memory."
+    example="For example, if you were playing soccer, your cerebellum would be active to help you maintain balance while moving."
 />

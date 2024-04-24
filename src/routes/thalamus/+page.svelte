@@ -9,6 +9,7 @@
 
 <Part 
     name="thalamus"
-    definition="relays sensory info to the rest of the brain"
-    example=""
+    tagline="Gateway to Consciousness"
+    definition="The thalamus acts as a relay station for sensory information, routing signals between the sensory organs and the cerebral cortex. It regulates consciousness, sleep, and alertness."
+    example="For example, when you wake up to the sound of an alarm clock, the thalamus quickly processes the auditory signal and relays it to the cerebral cortex, prompting you to become alert and responsive."
 />

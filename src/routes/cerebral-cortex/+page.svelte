@@ -9,6 +9,7 @@
 
 <Part 
     name="cerebral cortex"
-    definition="the outermost layer of the brain, composed of the four main lobes"
-    example=""
+    tagline="Higher Level Processor"
+    definition="The cerebral cortex plays a crucial role in various higher level cognitive functions such as perception, memory, language, and consciousness. It processes sensory information received from the environment and coordinates the motor responses necessary for higher level functioning."
+    example="For example, if you were programming, the cerebral cortex would help you coordinate the voluntary muscle movements to use your mouse and type, while also giving you the higher level processing power to code effectively."
 />
