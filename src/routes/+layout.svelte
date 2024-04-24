@@ -9,11 +9,13 @@
 
     <Header />
 
-    <div class="flex flex-row justify-center gap-32 w-full">
+    <div class="flex flex-row justify-center gap-8 w-full max-w-[108rem] px-16">
         <div class="basis-1/6">
             <Sidebar />
         </div>
-        <slot />
+        <div class="basis-2/3">
+            <slot />
+        </div>
         <div class="basis-1/6"></div>
     </div>
 
