@@ -9,6 +9,7 @@
 
 <Part 
     name="medulla"
-    definition="base of the brain stem, controls heartbeat and breathing"
-    example=""
+    tagline="Control Center"
+    definition="The medulla, part of the brainstem, is responsible for regulating vital autonomic functions such as heart rate, blood pressure, breathing, and reflexes like swallowing and vomiting."
+    example="For example, when you're asleep, the medulla monitors and adjusts your breathing rate and heart rate to maintain essential functions without conscious effort."
 />

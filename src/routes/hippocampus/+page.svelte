@@ -9,6 +9,7 @@
 
 <Part 
     name="hippocampus"
-    definition="establishes long term memories, in limbic system"
-    example=""
+    tagline="Gateway to Memory"
+    definition="The hippocampus, located within the brain's temporal lobes, is integral to the formation, consolidation, and retrieval of long-term memories, as well as spatial navigation."
+    example="For example, when learning to navigate a new city, the hippocampus processes and stores spatial information about landmarks and routes. Later, when recalling the way to a specific destination, the hippocampus retrieves stored memories, allowing you to navigate confidently."
 />
