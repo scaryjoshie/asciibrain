@@ -5,8 +5,6 @@
 
 <div class="flex flex-col items-center gap-16 my-16 mx-8">
 
-<h1 class="text-4xl text-center">ascii brain</h1>
-
 <div class="flex flex-col items-center">
     <h2 class="text-center">placeholder</h2>
 
