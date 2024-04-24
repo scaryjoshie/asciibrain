@@ -2,7 +2,7 @@
     import { Separator } from "$lib/components/ui/separator";
 </script>
 
-<div class="flex flex-col gap-2 border w-fit h-fit p-8 rounded-lg">
+<div class="flex flex-col gap-2 border w-fit h-fit px-8 py-4 rounded-lg">
     <h2>brain parts:</h2>
     <ul class="list-disc flex flex-col gap-2">
         <li>
