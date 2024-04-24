@@ -1,5 +1,10 @@
+<script lang="ts">
+    import { Separator } from "$lib/components/ui/separator";
+</script>
+
 <div class="flex flex-col gap-8 border w-fit h-fit p-8 rounded-lg">
     <h2>brain parts:</h2>
+    <Separator class="-my-4" />
     <ul class="list-disc flex flex-col gap-4">
         <li class="underline hover:no-underline">
             <a href="/cerebral-cortex">
