@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>ascii brain</title>
-	<meta name="description" content="ascii brain - a fun interactive brain parts diagram for ap psych" />
+	<meta name="description" content="ascii brain - an interactive brain parts diagram for ap psych" />
 </svelte:head>
 
 <script lang="ts">

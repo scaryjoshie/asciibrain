@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>cerebral cortex - ascii brain</title>
+	<title>reticular formation - ascii brain</title>
 	<meta name="description" content="ascii brain - an interactive brain parts diagram for ap psych" />
 </svelte:head>
 
@@ -8,7 +8,7 @@
 </script>
 
 <Part 
-    name="cerebral cortex"
-    definition="the outermost layer of the brain, composed of the four main lobes"
+    name="reticular formation"
+    definition="network in neurons in brain stem that controls arousal"
     example=""
 />

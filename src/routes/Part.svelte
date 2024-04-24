@@ -4,13 +4,14 @@
 
     export let name: string;
     export let definition: string;
+    export let example: string;
 </script>
 
-<div class="flex flex-col items-center justify-center gap-16">
+<div class="flex flex-col items-center justify-center gap-16 px-4">
 
-    <h1 class="text-2xl">{name}</h1>
+    <h1 class="text-2xl text-center">{name}</h1>
 
-    <p>{definition}</p>
+    <p class="text-center">{definition}</p>
 
     <Button variant="outline" href="/">
         go back

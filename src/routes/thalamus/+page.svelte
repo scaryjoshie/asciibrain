@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>cerebral cortex - ascii brain</title>
+	<title>thalamus - ascii brain</title>
 	<meta name="description" content="ascii brain - an interactive brain parts diagram for ap psych" />
 </svelte:head>
 
@@ -8,7 +8,7 @@
 </script>
 
 <Part 
-    name="cerebral cortex"
-    definition="the outermost layer of the brain, composed of the four main lobes"
+    name="thalamus"
+    definition="relays sensory info to the rest of the brain"
     example=""
 />
